@@ -1,5 +1,5 @@
-from mikey import mikeyF
-from mikey import *
+from basics.mikey import mikeyF
+from basics.mikey import *
 
 
 # from mapFunction import
