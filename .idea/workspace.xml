@@ -5,23 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b76d8949-2785-4d20-a3c1-12daa759878c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/basics/collections.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basics/disgustinVars.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basics/execeptionHandling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basics/floats.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basics/integers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basics/none.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basics/operators.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python_playground.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python_playground.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics/print.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop/classes.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics/classes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop/integers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop/methods.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics/methods.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop/mikey.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics/mikey.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop/operators.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop/strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics/strings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,13 +27,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/michaelyau/personal_github/python/oop",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/michaelyau/personal_github/python/oop&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/oop" />
