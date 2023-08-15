@@ -1,7 +1,5 @@
-
 def println():
     print("hello i am myra")
-
 
 
 def mikey():
