@@ -1,1 +1,1 @@
-# python_noob
+# python_notes
