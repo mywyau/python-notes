@@ -5,11 +5,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b76d8949-2785-4d20-a3c1-12daa759878c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functional/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functional/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test_List_Utils.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python_playground.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python_playground.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functional/optionals.py" beforeDir="false" afterPath="$PROJECT_DIR$/functional/optionals.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functional/pattern_matching.py" beforeDir="false" afterPath="$PROJECT_DIR$/functional/pattern_matching.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functional/utils/List_Utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/functional/utils/List_Utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basics/bool.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/bool.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basics/classes.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/classes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basics/collections.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/collections.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basics/exeception_handling.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/exeception_handling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basics/floats.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/floats.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basics/integers.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/integers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basics/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basics/methods.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/methods.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basics/mikey.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/mikey.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basics/mutable_variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/mutable_variables.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basics/none.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/none.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basics/operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/operators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basics/print.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/print.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basics/strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/strings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controlFlow/fizzbuzz.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/control_flow/fizzbuzz.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controlFlow/forLoops.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/control_flow/forLoops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controlFlow/ifElse.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/control_flow/ifElse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controlFlow/while.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/control_flow/while.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional/mapFunction.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/functional/mapFunction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional/optionals.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/functional/optionals.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional/pattern_matching.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/functional/pattern_matching.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional/utils/List_Utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/functional/utils/List_Utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional/utils/Option.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/functional/utils/Option.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional/utils/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,16 +74,18 @@
     "Python.OptionalWrapper.executor": "Run",
     "Python.pattern_matching.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/michaelyau/PycharmProjects/python-notes/functional",
+    "last_opened_file_path": "/Users/michaelyau/PycharmProjects/python-notes",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/functional" />
       <recent name="$PROJECT_DIR$/oop" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/oop" />
       <recent name="$PROJECT_DIR$/functional" />
     </key>

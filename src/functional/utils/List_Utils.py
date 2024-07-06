@@ -1,6 +1,5 @@
 from functools import reduce
 from typing import List, Callable, TypeVar, Generic
-from toolz import curry
 
 T = TypeVar('T')
 U = TypeVar('U')

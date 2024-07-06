@@ -9,7 +9,7 @@ multipleNewLines = "\nmultiple new lines wihtin a single string\nnewline\nnewlin
 
 backslashEscaping = "hello \\ I just esacped a single backslash\n"
 
-rawStringsToHelpWithBackSlashes = r"/Users/michaelyau/personal_github/python/controlFlow/forLoops.py"
+rawStringsToHelpWithBackSlashes = r"/Users/michaelyau/personal_github/python/control_flow/forLoops.py"
 
 alphabet = "abcdefghijklmnopqrstuvwxyz"
 getTheLetterD = alphabet[4]
