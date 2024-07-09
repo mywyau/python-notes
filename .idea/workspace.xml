@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b76d8949-2785-4d20-a3c1-12daa759878c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functional/optionals.py" beforeDir="false" afterPath="$PROJECT_DIR$/functional/optionals.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functional/pattern_matching.py" beforeDir="false" afterPath="$PROJECT_DIR$/functional/pattern_matching.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functional/utils/List_Utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/functional/utils/List_Utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/functional/utils/List_Utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/functional/utils/List_Utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_List_Utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_List_Utils.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,16 +44,18 @@
     "Python.OptionalWrapper.executor": "Run",
     "Python.pattern_matching.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/michaelyau/PycharmProjects/python-notes/functional",
+    "last_opened_file_path": "/Users/michaelyau/PycharmProjects/python-notes",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/functional" />
       <recent name="$PROJECT_DIR$/oop" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/oop" />
       <recent name="$PROJECT_DIR$/functional" />
     </key>

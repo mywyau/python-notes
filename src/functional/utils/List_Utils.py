@@ -1,17 +1,21 @@
 from functools import reduce
 from typing import List, Callable, TypeVar, Generic
-from toolz import curry
 
 T = TypeVar('T')
 U = TypeVar('U')
 
 
 class FluentList(Generic[T]):
+
     def __init__(self, iterable: List[T]):
         self._list = iterable
 
     def map(self, func: Callable[[T], U]) -> 'FluentList[U]':
         return FluentList(list(map(func, self._list)))
+
+    def flat_map(self, func: Callable[[T], List[U]]) -> 'FluentList[U]':
+        flattened = [item for sublist in map(func, self._list) for item in sublist]
+        return FluentList(flattened)
 
     def filter(self, func: Callable[[T], bool]) -> 'FluentList[T]':
         return FluentList(list(filter(func, self._list)))
@@ -25,7 +29,7 @@ class FluentList(Generic[T]):
         else:
             return if_non_empty(self._list)
 
-    def foldLeft(self, initial: U) -> Callable[[Callable[[U, T], U]], U]:
+    def fold_left(self, initial: U) -> Callable[[Callable[[U, T], U]], U]:
         def inner_fold(func: Callable[[U, T], U]) -> U:
             res = initial
             for item in self._list:
@@ -57,13 +61,15 @@ if __name__ == "__main__":
         .filter(is_even)
     )
 
+
     def add(x: int, y: int) -> int:
         return x + y
 
-    foldLeft_with_initial = FluentList(data).foldLeft(0)(add)
-    foldLeft_with_initial_2 = foldLeft_with_initial
 
-    print(foldLeft_with_initial)  # Output: [2, 4, 6]
+    fold_left_with_initial = FluentList(data).fold_left(0)(add)
+    fold_left_with_initial_2 = fold_left_with_initial
+
+    print(fold_left_with_initial)  # Output: [2, 4, 6]
 
     print(result)  # Output: [2, 4, 6]
 
